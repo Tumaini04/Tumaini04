@@ -1,88 +1,119 @@
-# 👋 Hi, I’m Tumaini Elius Mwakalinga
+<h1 align="center">Hi, I'm Tumaini Elius Mwakalinga 👋</h1>
+<h3 align="center">Cybersecurity & Digital Forensics Student | Aspiring Security Analyst</h3>
 
-### Cybersecurity Enthusiast | Digital Forensics | Python & Web Developer
-
----
-
-## 👩‍💻 About Me
-
-I am a passionate BSc. Cybersecurity student at Middlesex University Dubai, with a keen interest in securing digital landscapes. Always eager to contribute, learn, and make a positive impact in the cybersecurity domain.
-
-- **Location:** Dubai, United Arab Emirates / Dar Es Salaam, Tanzania  
-- **Languages:** English, Kiswahili  
-- **Email:** mwakalinga04@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/tumaini-mwakalinga-06baa4296">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tumainimwakalinga04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-- **Programming:** Python, JavaScript, C, C++
-- **Web:** HTML5, CSS, XML, DTD, XSLT
-- **Database:** MySQL
-- **Networking:** Cisco Packet Tracer
-- **Cloud Computing:** Linux Virtual Machine
-- **Digital Forensics & Cybersecurity**
-- **Other:** IoT, Microsoft Office Suite
+I am a final-year **Cybersecurity and Digital Forensics** student at **Middlesex University Dubai** with hands-on experience in **penetration testing, digital forensics, SIEM tools, and security-focused academic projects**. I am passionate about applying technical knowledge to real-world security challenges and continuously building my skills through certifications, labs, and independent learning.
 
----
-
-## 🏆 Certifications
-
-- Introduction to Cybersecurity (Cisco)
+- 🎓 BSc Cyber Security and Digital Forensics
+- 📍 Dubai, United Arab Emirates
+- 🔐 Interested in Penetration Testing, DFIR, SIEM, and Security Operations
+- 🤖 Exploring Machine Learning and NLP in cybersecurity
+- 🌍 Fluent in English and Kiswahili
 
 ---
 
-## 🚀 Notable Projects
+## 🛠 Skills
 
-### Vending Machine Software Design  
-*April 2024*  
-Designed and implemented a vending machine software using Python, MySQL, and sockets for client-server communication. The database dynamically updated product transactions for real-time inventory management.
+### Cybersecurity
+- Nmap
+- Wireshark
+- Metasploit
+- Spiderfoot
+- Splunk
+- FTK Imager
+- Autopsy
+- FTK Toolkit
 
-### Scientific Calculator (Software)  
-*March 2024*  
-Built a scientific calculator in Python, featuring a user-friendly button interface and accurate radian-based calculations.
+### Programming
+- Python
+- JavaScript
+- HTML
+- CSS
+- XML
 
-### Bookstore Website  
-*April 2024*  
-Developed a bookstore website using HTML5 and CSS for engaging design, XML for data storage, and XSLT for dynamic book display. Validated structure with DTD to ensure seamless browser compatibility.
+### Systems
+- Kali Linux
+- Parrot OS
+- Ubuntu
+- Windows
+- Virtual Machines
 
----
-
-## 👩‍💼 Experience
-
-- **Cybersecurity Intern** at Flashnet Tanzania (June 2024)
+### Data & ML
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- spaCy
+- TF-IDF
+- K-Means Clustering
+- Random Forest
+- Decision Trees
 
 ---
 
 ## 🎓 Education
 
 **Middlesex University Dubai**  
-BSc. Honours Cyber Security and Digital Forensics (2023 – 2026)  
-Key Modules: Computer Networks, Computer Systems Architecture, Operating Systems, Programming for Data Communication and Networks
+*BSc Cyber Security and Digital Forensics*  
+**Sep 2023 – Apr 2026**
 
 **International School of Tanganyika (IST)**  
-International Baccalaureate (IB) Diploma (2021 – 2023)
-
-**Marian Girls’ Secondary School**  
-Certificate of Secondary Education Examination (CSEE) (2017 – 2020)
+*IB Bilingual Diploma*  
+**Aug 2021 – May 2023**
 
 ---
 
-## 🌐 Let’s Connect
+## 📜 Certifications
 
-- [LinkedIn](https://www.linkedin.com/in/tumaini-mwakalinga-06baa4296)
-- Email: mwakalinga04@gmail.com
-
----
-
-## 📝 Interests
-
-Outside of cybersecurity, I love writing poems and expressing creativity through words.
-
----
-
-> “A passionate Bachelors of Cybersecurity student at Middlesex University Dubai, with a keen interest in securing digital landscapes. I am eager to contribute, learn, and make a positive impact in the cybersecurity domain.”
+- Cisco Introduction to Cybersecurity
+- Cisco Introduction to Ethical Hacking
+- Deloitte Australia Cyber Job Simulation
+- Commonwealth Bank Cybersecurity Job Simulation
+- TryHackMe *(16 rooms completed, 4 badges earned)*
+- EC-Council CEH *(In Progress)*
+- PwC ElevateME Mentorship Program *(In Progress)*
 
 ---
 
-_Always open to collaborations, learning opportunities, and new adventures in cybersecurity and beyond!_
+## 🚀 Projects
+
+### Ethical Hacking Project
+Performed an authorised wireless security assessment in a controlled lab environment. Simulated reconnaissance, sniffing, spoofing, password cracking, and de-authentication attacks using tools such as **Nmap, Wireshark, Macchanger, and Aircrack-ng**.
+
+### Breast Cancer Diagnosis using Machine Learning
+Built a machine learning model in **Python** to classify tumours as benign or malignant. Used **Pandas** for preprocessing, **NumPy** for computations, and **Scikit-learn** for training and evaluation. Applied **supervised learning** with Random Forest and Decision Trees, and explored **unsupervised learning** with K-Means clustering.
+
+### Fake Job Detection using NLP
+Developed an NLP-based classification model to detect fraudulent job postings. Used **text preprocessing**, **TF-IDF**, embeddings, **NLTK**, **spaCy**, and **Scikit-learn** to build and evaluate the solution.
+
+---
+
+## 🎯 Current Focus
+
+- Building more practical cybersecurity projects
+- Expanding my knowledge in security operations and threat detection
+- Preparing for the **CEH certification**
+- Applying machine learning to cybersecurity problems
+
+---
+
+## 📫 Contact Me
+
+- **Email:** tumainimwakalinga04@gmail.com
+- **LinkedIn:** [Tumaini Mwakalinga](https://www.linkedin.com/in/tumaini-mwakalinga-06baa4296)
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
