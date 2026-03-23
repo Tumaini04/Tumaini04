@@ -90,13 +90,17 @@ I am a final-year **Cybersecurity and Digital Forensics** student at **Middlesex
 ## 🚀 Projects
 
 ### Ethical Hacking Project
-Performed an authorised wireless security assessment in a controlled lab environment. Simulated reconnaissance, sniffing, spoofing, password cracking, and de-authentication attacks using tools such as **Nmap, Wireshark, Macchanger, and Aircrack-ng**.
+Performed an authorised wireless security assessment in a controlled lab environment, simulating real-world attack scenarios. Conducted reconnaissance using **Nmap**, captured and analysed network traffic with **Wireshark**, and executed MAC spoofing and packet injection attacks using **Macchanger** and **Aircrack-ng**. Successfully demonstrated vulnerabilities in Wi-Fi security, including weak encryption and susceptibility to **de-authentication** and **password cracking attacks**, and analysed potential mitigation strategies.
+
+---
 
 ### Breast Cancer Diagnosis using Machine Learning
-Built a machine learning model in **Python** to classify tumours as benign or malignant. Used **Pandas** for preprocessing, **NumPy** for computations, and **Scikit-learn** for training and evaluation. Applied **supervised learning** with Random Forest and Decision Trees, and explored **unsupervised learning** with K-Means clustering.
+Developed a machine learning model in **Python** to classify tumours as benign or malignant. Performed **data cleaning, feature selection, and scaling** using **Pandas** and **NumPy**. Implemented and evaluated supervised learning models (**Random Forest, Decision Trees**) to optimise classification performance. Additionally, applied **K-Means clustering** to explore hidden patterns and data distribution. Models were trained and tested using **Scikit-learn**, focusing on improving **accuracy and interpretability**.
+
+---
 
 ### Fake Job Detection using NLP
-Developed an NLP-based classification model to detect fraudulent job postings. Used **text preprocessing**, **TF-IDF**, embeddings, **NLTK**, **spaCy**, and **Scikit-learn** to build and evaluate the solution.
+Built an NLP-based classification system to identify fraudulent job postings from textual data. Conducted text preprocessing (**tokenisation, stop-word removal, lemmatisation**) and feature extraction using **TF-IDF** and word embeddings. Trained and evaluated classification models using **NLTK, spaCy, and Scikit-learn**, enabling effective detection of deceptive patterns in job descriptions.
 
 ---
 
