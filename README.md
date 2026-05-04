@@ -60,6 +60,7 @@ I am a final-year **Cybersecurity and Digital Forensics** student at **Middlesex
 - K-Means Clustering
 - Random Forest
 - Decision Trees
+- SMOTE
 
 ---
 
